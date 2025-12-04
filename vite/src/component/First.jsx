@@ -2,7 +2,12 @@ import React from 'react'
 
 function First() {
   return (
-    <div>First</div>
+    <div>First
+
+<p>stage 1 code</p>
+
+    </div>
+
   )
 }
 
